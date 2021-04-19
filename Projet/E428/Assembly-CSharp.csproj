@@ -56,8 +56,12 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Pipe\Pipe_Begining.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_Animation.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_Mouvements.cs" />
     <Compile Include="Assets\Scripts\Input\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\Camera\Camera_Control.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_States.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
