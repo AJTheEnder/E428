@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: -9000188618666376746
     second: Button_1
+  - first:
+      213: 8467241744927558709
+    second: Button_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -134,6 +137,27 @@ TextureImporter:
       bones: []
       spriteID: 6d180e8e228e81380800000000000000
       internalID: -9000188618666376746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c04c1718fa18570800000000000000
+      internalID: 8467241744927558709
       vertices: []
       indices: 
       edges: []
