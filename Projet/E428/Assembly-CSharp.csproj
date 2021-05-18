@@ -58,18 +58,25 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\Glucose_Attack.cs" />
     <Compile Include="Assets\Scripts\Pipe\Pipe_Begining.cs" />
+    <Compile Include="Assets\Scripts\UI\Main_Menu.cs" />
+    <Compile Include="Assets\Scripts\Managers\Level_Transition_Manager.cs" />
     <Compile Include="Assets\Scripts\Wheels\Wheels.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_States.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Animation.cs" />
+    <Compile Include="Assets\Scripts\Save\Save_System.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Animation.cs" />
     <Compile Include="Assets\Scripts\Helpers\Gizmos_Helper.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Mouvements.cs" />
+    <Compile Include="Assets\Scripts\Level_Loaders\Load_Next_Level_Trigger.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Movement.cs" />
+    <Compile Include="Assets\Scripts\Level_Loaders\Load_Prefered_Level_Trigger.cs" />
     <Compile Include="Assets\Scripts\Input\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Global_Variable\Global_Variable.cs" />
     <Compile Include="Assets\Scripts\Camera\Camera_Control.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_Spit.cs" />
+    <Compile Include="Assets\Scripts\Interface\IInterfaces.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
