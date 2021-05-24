@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\WatcherRobot_States.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_States.cs" />
+    <Compile Include="Assets\Scripts\UI\Pause_Menu.cs" />
     <Compile Include="Assets\Scripts\Helpers\Gizmos_Helper.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\TNT_Projectile\TNT_Projectile.cs" />
     <Compile Include="Assets\Scripts\Interface\IInterfaces.cs" />
@@ -93,14 +94,18 @@
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Attack.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_Pause.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_Attack.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Blue_Slime\Blue_Slime_Explosion.cs" />
     <Compile Include="Assets\Scripts\Global_Variable\Global_Variable.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Blue_Slime\Blue_Slime_Animation.cs" />
     <Compile Include="Assets\Scripts\Camera\Camera_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
-    <Compile Include="Assets\Scripts\UI\Pause_Menu.cs" />
-    <Compile Include="Assets\Scripts\Player\Glucose_Pause.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Movement.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Animation.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Health.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
