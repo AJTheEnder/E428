@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\Player\Glucose_Splotch_Sound.cs" />
     <Compile Include="Assets\Scripts\Save\Save_System.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Movement.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Spore.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_RayCast.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Bot_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\RGB_Slime\RGB_Slime_Health.cs" />
@@ -93,9 +94,10 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Blue_Slime\Blue_Slime_Explode.cs" />
     <Compile Include="Assets\Scripts\Managers\HUD_Manager.cs" />
-    <Compile Include="Assets\Scripts\Player\Glucose_Mouvements.cs" />
+    <Compile Include="Assets\Scripts\Player\Glucose_Controls.cs" />
     <Compile Include="Assets\Scripts\Level_Loaders\Load_Next_Level_Trigger.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_Wait.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Wall.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Movement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_State.cs" />
@@ -112,6 +114,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Electric_Robot\Electric_Robot_Lighting_Bolt.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Spit.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\RGB_Slime\RGB_Slime_Movement.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Ground.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\RGB_Slime\RGB_Slime_States.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Attack.cs" />
@@ -126,32 +129,9 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Wall.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Ground.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Spore.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Health.cs" />
   </ItemGroup>
   <ItemGroup>
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <Reference Include="UnityEngine">
       <HintPath>E:\Programs\Tools\UnityInstall\2020.3.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
