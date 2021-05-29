@@ -80,6 +80,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_RayCast.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Bot_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\RGB_Slime\RGB_Slime_Health.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\WatcherRobot_States.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_States.cs" />
@@ -129,7 +130,9 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Health.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Fire_Robot\Fire_Robor_Fire_Pivot.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Fire_Robot\Fire_Robot_Fire_Spawner.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Mobs\Fire_Robot\Fire_Robo_Fire_Spray.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
