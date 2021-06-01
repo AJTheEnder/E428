@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/PNJ_Test.unity
-=======
-- path: Assets/Scenes/Zone1.unity
->>>>>>> main
+- path: Assets/Scenes/Electricity_Manager.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
