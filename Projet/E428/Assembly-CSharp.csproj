@@ -137,6 +137,11 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Animation.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Health.cs" />
+=======
+>>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
