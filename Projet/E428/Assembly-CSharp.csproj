@@ -56,6 +56,7 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_State.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Purple_Slime\Purple_Slime_Movement.cs" />
     <Compile Include="Assets\Scripts\Player\Glucose_Attack.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_Attack.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="Assets\Scripts\UI\Main_Menu.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Health.cs" />
     <Compile Include="Assets\Scripts\Managers\Level_Transition_Manager.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Movement.cs" />
     <Compile Include="Assets\Scripts\Wheels\Wheels.cs" />
     <Compile Include="Assets\Scripts\Audio\Audio_Prefab.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Blue_Slime\Blue_Slime_Health.cs" />
@@ -112,6 +114,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Movement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_Lazer.cs" />
     <Compile Include="Assets\Scripts\Level_Loaders\Load_Prefered_Level_Trigger.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricicy_Manager_Attack.cs" />
     <Compile Include="Assets\Scripts\Managers\Dialog_System.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_Animation.cs" />
     <Compile Include="Assets\Scripts\Input\PlayerInput.cs" />
@@ -134,9 +137,8 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Movement.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_State.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricicy_Manager_Attack.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Animation.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Health.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
