@@ -107,6 +107,7 @@
     <Compile Include="Assets\Scripts\Player\Glucose_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Movement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Doom_Shroom\Doom_Shroom_State.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Purple_Slime\Purple_Slime_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_Mouvements.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Animation.cs" />
@@ -114,6 +115,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Movement.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\WatcherRobot\Watcher_Robot_Lazer.cs" />
     <Compile Include="Assets\Scripts\Level_Loaders\Load_Prefered_Level_Trigger.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricicy_Manager_Attack.cs" />
     <Compile Include="Assets\Scripts\Managers\Dialog_System.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_Animation.cs" />
@@ -137,11 +139,6 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Evil_Carot\Evil_Carot_Ground_Control.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Animation.cs" />
-    <Compile Include="Assets\Scripts\Enemies\Bosses\Electricity_Manager\Electricity_Manager_Health.cs" />
-=======
->>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
