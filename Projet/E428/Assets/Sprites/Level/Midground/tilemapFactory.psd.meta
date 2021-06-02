@@ -3166,7 +3166,7 @@ TextureImporter:
         serializedVersion: 2
         x: 352
         y: 480
-        width: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4803,7 +4803,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4811,6 +4811,27 @@ TextureImporter:
       bones: []
       spriteID: 20e98f6c102734cb0800000000000000
       internalID: -4880932219180769790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemapFactory_163
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f204ab2cb858e00800000000000000
+      internalID: 1046396156898193205
       vertices: []
       indices: 
       edges: []
