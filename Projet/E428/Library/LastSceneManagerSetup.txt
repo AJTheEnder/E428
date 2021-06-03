@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Doom_Shroom_Test.unity
-=======
-- path: Assets/Scenes/Zone3.unity
->>>>>>> main
+- path: Assets/Scenes/RGB_Slime_Test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
