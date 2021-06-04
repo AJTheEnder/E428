@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Plot_Twist.unity
+=======
+- path: Assets/Scenes/Zone4.unity
+>>>>>>> main
   isLoaded: 1
   isActive: 1
   isSubScene: 0
