@@ -90,6 +90,7 @@
     <Compile Include="Assets\Scripts\Enemies\Bosses\Store_Janitor\Store_Janitor_States.cs" />
     <Compile Include="Assets\Scripts\Enemies\Mobs\Fire_Robot\Fire_Robo_Fire_Spray.cs" />
     <Compile Include="Assets\Scripts\Audio\Audio_Prefab_Spawner.cs" />
+    <Compile Include="Assets\Scripts\Level_Loaders\Boss_Load_Next_Level.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\RGB_Slime\RGB_Slime_Animation.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Heath.cs" />
     <Compile Include="Assets\Scripts\UI\Pause_Menu.cs" />
@@ -141,7 +142,7 @@
     <Compile Include="Assets\Scripts\Enemies\Mobs\Basic\Mob_Basic_Health.cs" />
     <Compile Include="Assets\Scripts\Enemies\Bosses\Mini_Slime\Mini_Slime_Attack.cs" />
     <Compile Include="Assets\Scripts\RGB\RGB.cs" />
-    <Compile Include="Assets\Scripts\Level_Loaders\Boss_Load_Next_Level.cs" />
+    <Compile Include="Assets\Scripts\UI\Credit_UI.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
