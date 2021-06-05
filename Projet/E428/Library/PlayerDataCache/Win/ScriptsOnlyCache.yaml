@@ -91,9 +91,13 @@ ScriptsOnlyBuild:
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridPaintPaletteClipboard
+    - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -522,6 +526,8 @@ ScriptsOnlyBuild:
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -1874,9 +1880,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3160}
     - Class: 114
+      Script: {instanceID: 3184}
+    - Class: 114
       Script: {instanceID: 3344}
     - Class: 114
       Script: {instanceID: 3418}
+    - Class: 114
+      Script: {instanceID: 3504}
     - Class: 114
       Script: {instanceID: 3522}
     - Class: 114
@@ -1892,6 +1902,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4092}
     - Class: 114
+      Script: {instanceID: 4100}
+    - Class: 114
       Script: {instanceID: 4160}
     - Class: 114
       Script: {instanceID: 4240}
@@ -1900,9 +1912,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4420}
     - Class: 114
+      Script: {instanceID: 4562}
+    - Class: 114
       Script: {instanceID: 4608}
     - Class: 114
       Script: {instanceID: 4812}
+    - Class: 114
+      Script: {instanceID: 4832}
     - Class: 114
       Script: {instanceID: 4858}
     - Class: 114
@@ -1927,6 +1943,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5674}
     - Class: 114
       Script: {instanceID: 5676}
+    - Class: 114
+      Script: {instanceID: 6008}
     - Class: 114
       Script: {instanceID: 6154}
     - Class: 114
@@ -1955,6 +1973,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7412}
     - Class: 114
       Script: {instanceID: 7522}
+    - Class: 114
+      Script: {instanceID: 7582}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
